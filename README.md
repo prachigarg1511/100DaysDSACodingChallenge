@@ -79,6 +79,7 @@ Throughout the challenge, I aim to cover:
 | Day 05  | ✅ Completed |
 | Day 06  | ✅ Completed |
 | Day 07  | ✅ Completed |
+| Day 08  | ✅ Completed |
 | ...     | ⏳           |
 | Day 100 | ⏳           |
 
