@@ -85,6 +85,8 @@ Throughout the challenge, I aim to cover:
 | Day 11  | ✅ Completed |
 | Day 12  | ✅ Completed |
 | Day 13  | ✅ Completed |
+| Day 14  | ✅ Completed |
+| Day 15  | ✅ Completed |
 | ...     | ⏳           |
 | Day 100 | ⏳           |
 
